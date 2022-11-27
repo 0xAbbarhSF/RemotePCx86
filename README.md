@@ -22,10 +22,25 @@ This App alows user to connect his Android Phone to his PC remotely, wether by U
 
 ### 𝙉𝙀𝙀𝘿 𝙏𝙃𝙀 𝙒𝙃𝙊𝙇𝙀 𝙁𝙄𝙇𝙀 ?📎⛓️🔗
 
-> 𝘥𝘰𝘸nl𝘰𝘢𝘥 𝘮𝘢𝘯𝘢𝘶𝘭𝘭𝘺 
+> 𝘥𝘰𝘸nl𝘰𝘢𝘥 𝘮𝘢𝘯𝘢𝘶𝘭𝘭𝘺, both apk and the receiver
 
 PC Receiver Link > https://drive.google.com/file/d/146Nf1DwkcAmOY6ZJmVIGt906FeZuw5ch/view?usp=drivesdk
 
+##Setup
+
+### Wi-Fi in a local network
+*Connect the PC and the smart device to the same router
+*Open the scan page on the device you will see the name of the PC appeared, if it is not, please check the PC's firewall and anti-virus setting to see if monectserverservice.exe is in the white list or not.
+*Click the name of the PC which you want to connect to
+*A connection will be established
+
+### Connect from Bluetooth
+* Make sure the manufacture of the Bluetooth driver installed on the PC is Microsoft only, not the third party like Bluesoleil, etc.
+* Open the scan page on an Android device
+* Click the Bluetooth icon and give the required permissions if prompted
+* Wait until the name of the PC if appeared
+* Click the name of the PC which you want to connect to
+* A connection will be established
 
 IF you have problem, contact me on my Twitter bellow
 - 🕊️ Twitter: [@0xAbbarhSF](https://twitter.com/0xAbbarhSF)
