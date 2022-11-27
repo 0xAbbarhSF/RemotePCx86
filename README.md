@@ -28,11 +28,11 @@ PC Receiver Link > https://drive.google.com/file/d/146Nf1DwkcAmOY6ZJmVIGt906FeZu
 
 ##Setup
 
-### Wi-Fi in a local network
-*Connect the PC and the smart device to the same router
-*Open the scan page on the device you will see the name of the PC appeared, if it is not, please check the PC's firewall and anti-virus setting to see if monectserverservice.exe is in the white list or not.
-*Click the name of the PC which you want to connect to
-*A connection will be established
+### WiFi in a local network
+* Connect the PC and the smart device to the same router
+* Open the scan page on the device you will see the name of the PC appeared, if it is not, please check the PC's firewall and anti-virus setting to see if monectserverservice.exe is in the white list or not.
+* Click the name of the PC which you want to connect to
+* A connection will be established
 
 ### Connect from Bluetooth
 * Make sure the manufacture of the Bluetooth driver installed on the PC is Microsoft only, not the third party like Bluesoleil, etc.
